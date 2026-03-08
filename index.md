@@ -2,6 +2,6 @@
 
 This is a page for tafe
 
-- **started** 5 march 2026
-- **role** Tafe student
+- **Started** 5 march 2026
+- **Role** Tafe student
 - **Hobbies** reading, video games, other stuff
