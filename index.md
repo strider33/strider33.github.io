@@ -4,4 +4,4 @@ This is a page for tafe
 
 - **Started** 5 march 2026
 - **Role** Tafe student
-
+- **Hobbies** Reading, music, videogames,
